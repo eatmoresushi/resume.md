@@ -56,10 +56,14 @@ hand -->
  - Awarded a 40% tuition equivalent grant for excellence
 
 ## Projects
-<br>
-[**FilmFinder**](https://github.com/eatmoresushi/FilmFinder): An online movie database and community developed using Python, Django and SQLite
 
-[**Pokédex**](https://github.com/eatmoresushi/pokedex)</span>: A Pokédex with GUI using Python and Qt
+### <span>[FilmFinder](https://github.com/eatmoresushi/FilmFinder)</span>
+
+An online movie database and community developed using Python, Django and SQLite
+
+### <span>[Pokédex](https://github.com/eatmoresushi/pokedex)</span>
+
+A Pokédex with GUI using Python and Qt
 
 <!--
 ### <span>[Bear2Blog](https://luyuan.me/2021/01/29/Publish-Bear-notes-to-Github-Pages)</span>
@@ -79,7 +83,7 @@ Automatic translate notes taken in BearApp to blog posts on static sites generat
  - Participated in the event and solved challenges worth 730 points
 
 
-### <span>AWS Technical Essentials Day</span> <span>July, 2019</span>
+### <span>AWS Technical Essentials Day</span>
 
  - Completed the training on AWS essentials
 
