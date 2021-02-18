@@ -49,7 +49,6 @@ hand -->
 ### <span>Master of Information Technology, University of New South Wales</span> <span>March 2019 -- January 2021</span>
 
  - Average WAM: 75+ (Distinction)
- - Relevant Coursework: Security Engineering (Distinction), Web Application Security (Distinction), Security Assessment
 
 ### <span>Bachelor of Computer Science, Mississippi State University</span> <span>July 2009 -- December 2013</span>
 
@@ -83,7 +82,7 @@ Automatic translate notes taken in BearApp to blog posts on static sites generat
  - Participated in the event and solved challenges worth 730 points
 
 
-### <span>AWS Technical Essentials Day</span>
+### <span>AWS Technical Essentials Day</span> <span>July, 2019</span>
 
  - Completed the training on AWS essentials
 
