@@ -18,7 +18,7 @@ is intended to be used for a short summary. -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Senior QA Engineer, Shanghai Rising Digital Co.,Ltd</span> <span>May 2018 -- January 2019</span>
+### <span>QA Engineer, Shanghai Rising Digital Co.,Ltd</span> <span>May 2018 -- January 2019</span>
 
 <!-- company description -->
 
